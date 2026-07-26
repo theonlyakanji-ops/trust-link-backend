@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/analytics-controller-coverage",
+    "test/dlq-controller-coverage"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/analytics-controller-coverage": "main",
+    "test/dlq-controller-coverage": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/analytics-controller-coverage",
+    "test/dlq-controller-coverage"
+  ]
+}
